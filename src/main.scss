@@ -1,0 +1,59 @@
+@import 'stylesheets/Colors';
+@import 'stylesheets/App';
+@import url('https://fonts.googleapis.com/css?family=Dekko');
+
+.app {
+}
+
+body {
+  font-family: 'Dekko', cursive;
+  background-color: #E5F3F4;
+  font-size: 20px;
+  color: #747474;
+}
+
+h1 {
+  font-family: 'Dekko', sans-serif;
+  color: #37BECC;
+  text-align: center;
+}
+
+button {
+  border: 2px solid black;
+  box-shadow: 3px 3px #000;
+  width: 30px;
+  height: 30px;
+  color: #fff;
+  background-color: #1C2224;
+  margin-right: 15px;
+  float: left;
+}
+
+.faqBox {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.faqHeader {
+  margin-bottom: 10px;
+}
+
+.faqAnswer {
+  line-height: 20px;
+}
+
+.open {
+  color: #000;
+  background-color: #84CE15;
+}
+
+.divider {
+  width: 98%;
+  height: 0px;
+  border: 1px solid #747474;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
