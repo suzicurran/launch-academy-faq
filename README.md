@@ -7,7 +7,9 @@ We were tasked with creating a FAQ page for Launch in React to match the followi
 ## Installation
 
 From the directory, run the following in your terminal:
+
 ```$ npm install```
+
 ```$ webpack-dev-server```
 
 Then, visit [http://localhost:8080](http://localhost:8080) in your browser.
