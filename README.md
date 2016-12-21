@@ -15,4 +15,5 @@ Then, visit [http://localhost:8080](http://localhost:8080) in your browser.
 ## Credits
 
 [Will Kent](https://github.com/wwinslowkent), pair-programming partner
-[Launch Academy](https://github.com/LaunchAcademy)
+
+and [Launch Academy](https://github.com/LaunchAcademy)!
