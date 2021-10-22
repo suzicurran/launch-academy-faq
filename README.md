@@ -1,3 +1,5 @@
+# This project is no longer being maintained and may have broken features and/or insecure dependencies. It exists only for reference purposes.
+
 # Launch Academy FAQ
 
 We were tasked with creating a FAQ page for Launch in React to match the following wireframe:
